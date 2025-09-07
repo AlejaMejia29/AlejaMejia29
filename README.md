@@ -93,10 +93,11 @@ y crecer como profesional para contribuir positivamente a cada proyecto en el qu
   <a href="https://www.linkedin.com/in/alejandra-mejia29/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=FF69B4" alt="LinkedIn" width="50px" style="margin: 10px;"/>
   </a>
-  <!-- Gmail -->
-  <a href="mailto:alejandramegia.am@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=37246&format=png&color=FF69B4" alt="Gmail" width="50px" style="margin: 10px;"/>
-  </a>
+<!-- Gmail -->
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=alejandramegia.am@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=37246&format=png&color=FF69B4" alt="Gmail" width="50px" style="margin: 10px;"/>
+</a>
+
   <!-- WhatsApp -->
   <a href="https://wa.me/573148281480" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=16713&format=png&color=FF69B4" alt="WhatsApp" width="50px" style="margin: 10px;"/>
